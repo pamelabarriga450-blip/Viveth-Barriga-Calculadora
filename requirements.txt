@@ -1,0 +1,4 @@
+streamlit
+periodictable
+pandas
+numpy
